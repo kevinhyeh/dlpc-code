@@ -1,0 +1,95 @@
+id,college, student_id, name, masters_focus, gpa, grad_date, email
+1,Princeton University,7352055446,Gaston Willms DVM,Computer Science,3.34,Sun Dec 09 2018 04:38:50 GMT-0800 (PST),gaston-willms-dvm@princeton.edu/
+2,University of Michigan at Ann Arbor,5364081298,Tyrel Mraz,Data Science,2.5,Sat May 11 2019 06:03:33 GMT-0700 (PDT),tyrel-mraz@umich.edu/
+3,Duke University,6568285304,Jefferey Bosco,Electrical Engineering,2.89,Wed Oct 24 2018 15:01:57 GMT-0700 (PDT),jefferey-bosco@duke.edu/
+4,California Institute of Technology,2189880595,Cesar Christiansen,Computer Science,2.96,Mon Jul 22 2019 09:09:38 GMT-0700 (PDT),cesar-christiansen@caltech.edu/
+5,California Polytechnic State University,3324693399,Edward Lind,Cybersecurity,2.88,Thu Oct 25 2018 08:27:27 GMT-0700 (PDT),edward-lind@calpoly.edu/
+6,Rensselaer Polytechnic Institute,53805906,Kiel King,Cybersecurity,2.93,Wed Apr 10 2019 11:08:42 GMT-0700 (PDT),kiel-king@rpi.edu/
+7,Colorado State University,907222369,Antwon Schuppe,Software Engineering,2.84,Sat May 18 2019 11:20:32 GMT-0700 (PDT),antwon-schuppe@colostate.edu/
+8,University of Texas at Austin,2611767634,Lorena Abshire,Mechanical Engineering,3.39,Tue Jul 23 2019 00:42:16 GMT-0700 (PDT),lorena-abshire@utexas.edu/
+9,Stanford University,5483564691,Kasandra Block MD,Mechanical Engineering,2.85,Thu Sep 19 2019 22:10:28 GMT-0700 (PDT),kasandra-block-md@stanford.edu/
+10,University of Michigan at Ann Arbor,9423378336,Jackson Labadie,Data Science,2.99,Sat Aug 24 2019 02:02:41 GMT-0700 (PDT),jackson-labadie@umich.edu/
+11,University of California at Santa Barbara,6260547363,Camron Powlowski DDS,Data Science,2.93,Fri Jan 04 2019 17:38:22 GMT-0800 (PST),camron-powlowski-dds@ucsb.edu/
+12,Ohio State University,221580975,Ransom Predovic,Software Engineering,3.48,Sat May 04 2019 14:53:21 GMT-0700 (PDT),ransom-predovic@osu.edu/
+13,Northeastern University,5844381624,Whitney Heaney,Computer Engineering,3.02,Mon Jan 14 2019 13:58:25 GMT-0800 (PST),whitney-heaney@northeastern.edu/
+14,Johns Hopkins University,8909724051,Coleman Franecki MD,Software Engineering,2.5,Mon Jan 21 2019 10:20:14 GMT-0800 (PST),coleman-franecki-md@jhu.edu/
+15,University of Michigan at Ann Arbor,4450408023,Miss Raheem Bruen,Computer Science,2.69,Sun Oct 21 2018 03:12:14 GMT-0700 (PDT),miss-raheem-bruen@umich.edu/
+16,Northeastern University,2233546123,Daren Hermann,Computer Science,2.98,Thu Jun 13 2019 21:17:43 GMT-0700 (PDT),daren-hermann@northeastern.edu/
+17,Harvard University,6005506544,Mr. Sophie Strosin,Cybersecurity,2.87,Sun Feb 03 2019 14:06:05 GMT-0800 (PST),mr.-sophie-strosin@harvard.edu/
+18,Virginia Tech,9728278812,Dr. Morgan Lubowitz,Data Science,3.19,Wed Jul 17 2019 12:35:47 GMT-0700 (PDT),dr.-morgan-lubowitz@vt.edu/
+19,University of Florida,3936554895,Mr. Etha Bayer,Mechanical Engineering,2.73,Sun Jan 20 2019 19:44:54 GMT-0800 (PST),mr.-etha-bayer@ufl.edu/
+20,Vanderbilt University,1456390552,Haley Wilkinson,Mechanical Engineering,3.04,Sat May 18 2019 05:20:33 GMT-0700 (PDT),haley-wilkinson@vanderbilt.edu/
+21,University of Wisconsin at Madison,8129365213,Rudolph Altenwerth,Software Engineering,2.79,Sun Mar 10 2019 00:00:29 GMT-0800 (PST),rudolph-altenwerth@wisc.edu/
+22,Brigham Young University,3081781864,Reina Koepp,Applied Mathematics,3.26,Thu Oct 25 2018 03:17:15 GMT-0700 (PDT),reina-koepp@byu.edu/
+23,New York University,339393201,Moriah Cole,Mechanical Engineering,3.17,Sun Mar 31 2019 03:25:18 GMT-0700 (PDT),moriah-cole@nyu.edu/
+24,University of Colorado at Boulder,9001314340,Asha Ryan,Electrical Engineering,3.02,Sat Oct 20 2018 19:58:53 GMT-0700 (PDT),asha-ryan@colorado.edu/
+25,California Institute of Technology,3078189727,Thaddeus Schmidt,Applied Mathematics,3.03,Mon Aug 26 2019 05:48:17 GMT-0700 (PDT),thaddeus-schmidt@caltech.edu/
+26,Ohio State University,229427330,Kole Kirlin,Computer Engineering,2.66,Wed Jan 02 2019 06:20:20 GMT-0800 (PST),kole-kirlin@osu.edu/
+27,Princeton University,1190226598,Dawson Dach,Applied Mathematics,2.77,Sun Oct 14 2018 07:12:48 GMT-0700 (PDT),dawson-dach@princeton.edu/
+28,Colorado State University,2609973287,Nikki Marquardt DVM,Applied Mathematics,3.45,Thu Sep 12 2019 22:56:22 GMT-0700 (PDT),nikki-marquardt-dvm@colostate.edu/
+29,Brigham Young University,869029226,Isaiah Schroeder,Computer Science,2.95,Sat Jun 22 2019 11:22:28 GMT-0700 (PDT),isaiah-schroeder@byu.edu/
+30,University of California at Davis,9917265365,Kattie Schuster Sr.,Computer Engineering,2.62,Sat Dec 08 2018 11:10:34 GMT-0800 (PST),kattie-schuster-sr.@ucdavis.edu/
+31,Harvard University,2325927555,Christian Hettinger Sr.,Software Engineering,2.93,Thu May 30 2019 21:14:37 GMT-0700 (PDT),christian-hettinger-sr.@harvard.edu/
+32,University of California at Davis,5250902286,Ryder Berge,Computer Engineering,3.07,Wed Dec 19 2018 00:56:43 GMT-0800 (PST),ryder-berge@ucdavis.edu/
+33,University of Michigan at Ann Arbor,9759646583,Hassan Littel,Applied Mathematics,2.83,Fri Aug 16 2019 23:38:22 GMT-0700 (PDT),hassan-littel@umich.edu/
+34,University of California at Los Angeles,4456817767,Lauryn Terry DVM,Applied Mathematics,3.28,Mon Aug 05 2019 16:51:17 GMT-0700 (PDT),lauryn-terry-dvm@ucla.edu/
+35,Stanford University,7382599663,Savanna Bashirian,Computer Science,3.3,Mon Jul 15 2019 20:25:19 GMT-0700 (PDT),savanna-bashirian@stanford.edu/
+36,Massachusetts Institute of Technology,4985752399,Taya Schinner,Electrical Engineering,2.91,Sun Jun 02 2019 18:39:12 GMT-0700 (PDT),taya-schinner@mit.edu/
+37,North Carolina State University,81259567,Anastasia Jacobson,Electrical Engineering,3.09,Sat Oct 20 2018 21:43:48 GMT-0700 (PDT),anastasia-jacobson@ncsu.edu/
+38,Vanderbilt University,7395716052,Gene Heller,Computer Science,3.02,Sun Jan 13 2019 01:31:42 GMT-0800 (PST),gene-heller@vanderbilt.edu/
+39,University of California at San Diego,8388265335,Jon Pouros,Applied Mathematics,3.05,Fri Jun 28 2019 13:32:40 GMT-0700 (PDT),jon-pouros@ucsd.edu/
+40,University of Southern California,7928409158,Moses Luettgen,Applied Mathematics,3.52,Fri Nov 16 2018 14:38:03 GMT-0800 (PST),moses-luettgen@usc.edu/
+41,Rochester Institute of Technology,6582049407,Teresa Lindgren,Electrical Engineering,3.34,Tue Jan 29 2019 17:36:17 GMT-0800 (PST),teresa-lindgren@rit.edu/
+42,University of California at Santa Barbara,9510837914,Dr. Alysson Kunze,Computer Science,3.29,Fri Aug 09 2019 01:05:59 GMT-0700 (PDT),dr.-alysson-kunze@ucsb.edu/
+43,Virginia Tech,28830372,Norris Gorczany DVM,Applied Mathematics,3.42,Mon Dec 10 2018 10:36:17 GMT-0800 (PST),norris-gorczany-dvm@vt.edu/
+44,Northeastern University,7225282097,Cristina Miller II,Computer Science,2.69,Fri Feb 15 2019 21:41:09 GMT-0800 (PST),cristina-miller-ii@northeastern.edu/
+45,University of Minnesota at Twin Cities,3191747863,Evangeline Kreiger,Mechanical Engineering,2.5,Sun May 05 2019 02:26:27 GMT-0700 (PDT),evangeline-kreiger@twin-cities.umn.edu/
+46,University of Colorado at Boulder,1651758447,Wilhelmine Hegmann,Cybersecurity,3.18,Fri May 17 2019 22:20:46 GMT-0700 (PDT),wilhelmine-hegmann@colorado.edu/
+47,University of Florida,1194221011,Jaqueline Wintheiser,Data Science,3.35,Sat May 25 2019 19:13:32 GMT-0700 (PDT),jaqueline-wintheiser@ufl.edu/
+48,University of California at Santa Barbara,4729500048,Tillman Schumm,Mechanical Engineering,2.77,Fri Mar 08 2019 22:24:55 GMT-0800 (PST),tillman-schumm@ucsb.edu/
+49,University of Maryland at College Park,2782382873,Mikayla Brown,Data Science,3.26,Tue Mar 05 2019 01:45:26 GMT-0800 (PST),mikayla-brown@umd.edu/
+50,Virginia Tech,2944434465,Josefina Russel,Data Science,2.74,Wed Oct 31 2018 11:00:12 GMT-0700 (PDT),josefina-russel@vt.edu/
+51,Ohio State University,9915674520,Mrs. Stephanie Franecki,Mechanical Engineering,3.12,Tue Oct 09 2018 17:10:13 GMT-0700 (PDT),mrs.-stephanie-franecki@osu.edu/
+52,Brigham Young University,504084210,Baby Altenwerth,Applied Mathematics,2.92,Sun Sep 08 2019 08:13:40 GMT-0700 (PDT),baby-altenwerth@byu.edu/
+53,University of California at Santa Barbara,8250471961,Kareem Leffler,Applied Mathematics,3.56,Sat Feb 23 2019 10:00:50 GMT-0800 (PST),kareem-leffler@ucsb.edu/
+54,University of Washington,9801994320,Trey Romaguera,Software Engineering,3.5,Mon Oct 29 2018 20:39:56 GMT-0700 (PDT),trey-romaguera@washington.edu/
+55,Virginia Tech,2104530034,Ansel Reichert,Electrical Engineering,2.96,Wed Oct 24 2018 18:50:26 GMT-0700 (PDT),ansel-reichert@vt.edu/
+56,University of Florida,1824548631,Gillian Smitham,Mechanical Engineering,2.74,Sat Aug 10 2019 03:26:42 GMT-0700 (PDT),gillian-smitham@ufl.edu/
+57,Cornell University,1713775666,Myah Beatty Sr.,Cybersecurity,2.83,Thu Oct 25 2018 08:13:26 GMT-0700 (PDT),myah-beatty-sr.@cornell.edu/
+58,University of Washington,2219189117,Edwin Pfannerstill,Applied Mathematics,3.08,Tue Oct 30 2018 20:28:12 GMT-0700 (PDT),edwin-pfannerstill@washington.edu/
+59,University of Wisconsin at Madison,43951209,Joseph Hills,Electrical Engineering,3.12,Sat Feb 23 2019 03:32:39 GMT-0800 (PST),joseph-hills@wisc.edu/
+60,University of Minnesota at Twin Cities,5723296448,Mrs. Janelle Sporer,Cybersecurity,2.52,Thu Mar 21 2019 08:57:59 GMT-0700 (PDT),mrs.-janelle-sporer@twin-cities.umn.edu/
+61,Harvey Mudd College,8638755151,Luigi Mann IV,Cybersecurity,2.99,Sat Nov 17 2018 08:28:07 GMT-0800 (PST),luigi-mann-iv@hmc.edu/
+62,University of California at Davis,8144791716,Jensen Spinka,Applied Mathematics,2.58,Sat Aug 10 2019 13:16:15 GMT-0700 (PDT),jensen-spinka@ucdavis.edu/
+63,University of California at Santa Barbara,4917332245,Korbin Armstrong,Computer Science,3.58,Fri Sep 20 2019 22:39:33 GMT-0700 (PDT),korbin-armstrong@ucsb.edu/
+64,University of Washington,9192957242,Darron Gleichner V,Applied Mathematics,3.42,Tue Apr 16 2019 20:33:11 GMT-0700 (PDT),darron-gleichner-v@washington.edu/
+65,University of Michigan at Ann Arbor,4248023313,Angelica Ratke,Software Engineering,3.57,Wed Jan 23 2019 16:30:57 GMT-0800 (PST),angelica-ratke@umich.edu/
+66,Johns Hopkins University,4986283124,Ray Hackett DDS,Data Science,2.57,Wed Jan 16 2019 18:32:49 GMT-0800 (PST),ray-hackett-dds@jhu.edu/
+67,Worcester Polytechnic Institute,4885154139,Arianna Yost,Computer Science,3.21,Sun Nov 04 2018 07:59:05 GMT-0800 (PST),arianna-yost@wpi.edu/
+68,Northeastern University,8827771758,Mr. Rubie Greenfelder,Computer Engineering,3.08,Fri Aug 30 2019 05:51:15 GMT-0700 (PDT),mr.-rubie-greenfelder@northeastern.edu/
+69,University of Connecticut,3812291222,Bradley Bins,Applied Mathematics,3.49,Wed Jul 17 2019 16:26:30 GMT-0700 (PDT),bradley-bins@uconn.edu/
+70,University of Washington,8724404895,Macy Pollich,Computer Science,2.81,Sat Sep 21 2019 20:26:36 GMT-0700 (PDT),macy-pollich@washington.edu/
+71,University of California at San Diego,8866293514,Dr. Burdette Kutch,Applied Mathematics,3.32,Tue Oct 30 2018 12:14:02 GMT-0700 (PDT),dr.-burdette-kutch@ucsd.edu/
+72,University of California at Los Angeles,5660835934,Jessica Carter,Cybersecurity,3.07,Wed Apr 10 2019 00:27:12 GMT-0700 (PDT),jessica-carter@ucla.edu/
+73,Stanford University,9696161696,Jovanny Greenholt,Computer Engineering,3.21,Fri Oct 04 2019 18:32:50 GMT-0700 (PDT),jovanny-greenholt@stanford.edu/
+74,Stanford University,7362226558,Chadrick Dickens,Computer Science,2.68,Wed Nov 14 2018 17:40:20 GMT-0800 (PST),chadrick-dickens@stanford.edu/
+75,University of Colorado at Boulder,5043995273,Hilton Kuvalis,Applied Mathematics,3.41,Wed Apr 17 2019 00:36:02 GMT-0700 (PDT),hilton-kuvalis@colorado.edu/
+76,DigiPen Institute of Technology,7111251708,Lola Gutkowski,Software Engineering,2.69,Thu Apr 25 2019 04:55:35 GMT-0700 (PDT),lola-gutkowski@digipen.edu/
+77,Stanford University,2301826660,Zachariah Schmidt,Computer Engineering,2.85,Thu Aug 08 2019 06:10:44 GMT-0700 (PDT),zachariah-schmidt@stanford.edu/
+78,Yale University,9122917285,Della Jakubowski,Software Engineering,3.12,Fri Nov 16 2018 17:35:16 GMT-0800 (PST),della-jakubowski@yale.edu/
+79,University of Texas at Austin,33830712,Tessie Ratke,Cybersecurity,3.15,Mon Oct 15 2018 18:15:18 GMT-0700 (PDT),tessie-ratke@utexas.edu/
+80,Rochester Institute of Technology,93997032,Kyleigh Rosenbaum,Electrical Engineering,3.55,Sun Sep 22 2019 06:26:09 GMT-0700 (PDT),kyleigh-rosenbaum@rit.edu/
+81,University of California at Davis,165038787,Vinnie Reinger,Computer Engineering,2.62,Sun Mar 31 2019 06:41:21 GMT-0700 (PDT),vinnie-reinger@ucdavis.edu/
+82,Vanderbilt University,1089577073,Marilie Frami,Data Science,3.59,Tue Jun 18 2019 08:56:15 GMT-0700 (PDT),marilie-frami@vanderbilt.edu/
+83,University of Maryland at College Park,5862996920,Erin Vandervort,Cybersecurity,3.1,Sun Oct 28 2018 09:20:26 GMT-0700 (PDT),erin-vandervort@umd.edu/
+84,Ohio State University,421960670,Ms. Nasir Brown,Electrical Engineering,3.01,Sat Oct 27 2018 23:42:19 GMT-0700 (PDT),ms.-nasir-brown@osu.edu/
+85,University of Maryland at College Park,8848067844,Blanche Hamill,Software Engineering,3.5,Thu Oct 18 2018 08:35:55 GMT-0700 (PDT),blanche-hamill@umd.edu/
+86,Worcester Polytechnic Institute,5209914961,Yasmeen Lehner,Electrical Engineering,3.15,Sun Jan 06 2019 11:41:33 GMT-0800 (PST),yasmeen-lehner@wpi.edu/
+87,North Carolina State University,1312687345,Eric Schmidt PhD,Computer Engineering,2.68,Sat Sep 21 2019 08:10:39 GMT-0700 (PDT),eric-schmidt-phd@ncsu.edu/
+88,Purdue University,9327796441,Van Gorczany,Cybersecurity,3.24,Thu Jan 10 2019 17:12:01 GMT-0800 (PST),van-gorczany@purdue.edu/
+89,Northeastern University,4003779384,Curtis Hessel,Electrical Engineering,2.87,Wed Jun 12 2019 05:57:55 GMT-0700 (PDT),curtis-hessel@northeastern.edu/
+90,Ohio State University,3567624080,Judah Kuhic,Mechanical Engineering,2.55,Mon Jun 10 2019 03:35:03 GMT-0700 (PDT),judah-kuhic@osu.edu/
+91,Carnegie Mellon University,8341568052,Rey Hegmann,Electrical Engineering,2.59,Mon Apr 22 2019 23:14:30 GMT-0700 (PDT),rey-hegmann@cmu.edu/
+92,Rice University,1630171486,Therese Aufderhar,Electrical Engineering,3.07,Tue Jan 08 2019 13:04:09 GMT-0800 (PST),therese-aufderhar@rice.edu/
+93,University of California at Los Angeles,6962995215,Domenico Feeney,Data Science,2.56,Wed Dec 26 2018 07:59:07 GMT-0800 (PST),domenico-feeney@ucla.edu/
+94,Massachusetts Institute of Technology,8815735887,Theresia Lueilwitz,Cybersecurity,2.56,Fri Aug 23 2019 02:24:39 GMT-0700 (PDT),theresia-lueilwitz@mit.edu/

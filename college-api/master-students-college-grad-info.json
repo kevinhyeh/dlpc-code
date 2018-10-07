@@ -1,0 +1,942 @@
+[
+  {
+    "id": 1,
+    "college": "Princeton University",
+    "student_id": 7352055446,
+    "name": "Gaston Willms DVM",
+    "masters_focus": "Computer Science",
+    "gpa": 3.34,
+    "grad_date": "Sun Dec 09 2018 04:38:50 GMT-0800 (PST)",
+    "email": "gaston-willms-dvm@princeton.edu/"
+  },
+  {
+    "id": 2,
+    "college": "University of Michigan at Ann Arbor",
+    "student_id": 5364081298,
+    "name": "Tyrel Mraz",
+    "masters_focus": "Data Science",
+    "gpa": 2.5,
+    "grad_date": "Sat May 11 2019 06:03:33 GMT-0700 (PDT)",
+    "email": "tyrel-mraz@umich.edu/"
+  },
+  {
+    "id": 3,
+    "college": "Duke University",
+    "student_id": 6568285304,
+    "name": "Jefferey Bosco",
+    "masters_focus": "Electrical Engineering",
+    "gpa": 2.89,
+    "grad_date": "Wed Oct 24 2018 15:01:57 GMT-0700 (PDT)",
+    "email": "jefferey-bosco@duke.edu/"
+  },
+  {
+    "id": 4,
+    "college": "California Institute of Technology",
+    "student_id": 2189880595,
+    "name": "Cesar Christiansen",
+    "masters_focus": "Computer Science",
+    "gpa": 2.96,
+    "grad_date": "Mon Jul 22 2019 09:09:38 GMT-0700 (PDT)",
+    "email": "cesar-christiansen@caltech.edu/"
+  },
+  {
+    "id": 5,
+    "college": "California Polytechnic State University",
+    "student_id": 3324693399,
+    "name": "Edward Lind",
+    "masters_focus": "Cybersecurity",
+    "gpa": 2.88,
+    "grad_date": "Thu Oct 25 2018 08:27:27 GMT-0700 (PDT)",
+    "email": "edward-lind@calpoly.edu/"
+  },
+  {
+    "id": 6,
+    "college": "Rensselaer Polytechnic Institute",
+    "student_id": 53805906,
+    "name": "Kiel King",
+    "masters_focus": "Cybersecurity",
+    "gpa": 2.93,
+    "grad_date": "Wed Apr 10 2019 11:08:42 GMT-0700 (PDT)",
+    "email": "kiel-king@rpi.edu/"
+  },
+  {
+    "id": 7,
+    "college": "Colorado State University",
+    "student_id": 907222369,
+    "name": "Antwon Schuppe",
+    "masters_focus": "Software Engineering",
+    "gpa": 2.84,
+    "grad_date": "Sat May 18 2019 11:20:32 GMT-0700 (PDT)",
+    "email": "antwon-schuppe@colostate.edu/"
+  },
+  {
+    "id": 8,
+    "college": "University of Texas at Austin",
+    "student_id": 2611767634,
+    "name": "Lorena Abshire",
+    "masters_focus": "Mechanical Engineering",
+    "gpa": 3.39,
+    "grad_date": "Tue Jul 23 2019 00:42:16 GMT-0700 (PDT)",
+    "email": "lorena-abshire@utexas.edu/"
+  },
+  {
+    "id": 9,
+    "college": "Stanford University",
+    "student_id": 5483564691,
+    "name": "Kasandra Block MD",
+    "masters_focus": "Mechanical Engineering",
+    "gpa": 2.85,
+    "grad_date": "Thu Sep 19 2019 22:10:28 GMT-0700 (PDT)",
+    "email": "kasandra-block-md@stanford.edu/"
+  },
+  {
+    "id": 10,
+    "college": "University of Michigan at Ann Arbor",
+    "student_id": 9423378336,
+    "name": "Jackson Labadie",
+    "masters_focus": "Data Science",
+    "gpa": 2.99,
+    "grad_date": "Sat Aug 24 2019 02:02:41 GMT-0700 (PDT)",
+    "email": "jackson-labadie@umich.edu/"
+  },
+  {
+    "id": 11,
+    "college": "University of California at Santa Barbara",
+    "student_id": 6260547363,
+    "name": "Camron Powlowski DDS",
+    "masters_focus": "Data Science",
+    "gpa": 2.93,
+    "grad_date": "Fri Jan 04 2019 17:38:22 GMT-0800 (PST)",
+    "email": "camron-powlowski-dds@ucsb.edu/"
+  },
+  {
+    "id": 12,
+    "college": "Ohio State University",
+    "student_id": 221580975,
+    "name": "Ransom Predovic",
+    "masters_focus": "Software Engineering",
+    "gpa": 3.48,
+    "grad_date": "Sat May 04 2019 14:53:21 GMT-0700 (PDT)",
+    "email": "ransom-predovic@osu.edu/"
+  },
+  {
+    "id": 13,
+    "college": "Northeastern University",
+    "student_id": 5844381624,
+    "name": "Whitney Heaney",
+    "masters_focus": "Computer Engineering",
+    "gpa": 3.02,
+    "grad_date": "Mon Jan 14 2019 13:58:25 GMT-0800 (PST)",
+    "email": "whitney-heaney@northeastern.edu/"
+  },
+  {
+    "id": 14,
+    "college": "Johns Hopkins University",
+    "student_id": 8909724051,
+    "name": "Coleman Franecki MD",
+    "masters_focus": "Software Engineering",
+    "gpa": 2.5,
+    "grad_date": "Mon Jan 21 2019 10:20:14 GMT-0800 (PST)",
+    "email": "coleman-franecki-md@jhu.edu/"
+  },
+  {
+    "id": 15,
+    "college": "University of Michigan at Ann Arbor",
+    "student_id": 4450408023,
+    "name": "Miss Raheem Bruen",
+    "masters_focus": "Computer Science",
+    "gpa": 2.69,
+    "grad_date": "Sun Oct 21 2018 03:12:14 GMT-0700 (PDT)",
+    "email": "miss-raheem-bruen@umich.edu/"
+  },
+  {
+    "id": 16,
+    "college": "Northeastern University",
+    "student_id": 2233546123,
+    "name": "Daren Hermann",
+    "masters_focus": "Computer Science",
+    "gpa": 2.98,
+    "grad_date": "Thu Jun 13 2019 21:17:43 GMT-0700 (PDT)",
+    "email": "daren-hermann@northeastern.edu/"
+  },
+  {
+    "id": 17,
+    "college": "Harvard University",
+    "student_id": 6005506544,
+    "name": "Mr. Sophie Strosin",
+    "masters_focus": "Cybersecurity",
+    "gpa": 2.87,
+    "grad_date": "Sun Feb 03 2019 14:06:05 GMT-0800 (PST)",
+    "email": "mr.-sophie-strosin@harvard.edu/"
+  },
+  {
+    "id": 18,
+    "college": "Virginia Tech",
+    "student_id": 9728278812,
+    "name": "Dr. Morgan Lubowitz",
+    "masters_focus": "Data Science",
+    "gpa": 3.19,
+    "grad_date": "Wed Jul 17 2019 12:35:47 GMT-0700 (PDT)",
+    "email": "dr.-morgan-lubowitz@vt.edu/"
+  },
+  {
+    "id": 19,
+    "college": "University of Florida",
+    "student_id": 3936554895,
+    "name": "Mr. Etha Bayer",
+    "masters_focus": "Mechanical Engineering",
+    "gpa": 2.73,
+    "grad_date": "Sun Jan 20 2019 19:44:54 GMT-0800 (PST)",
+    "email": "mr.-etha-bayer@ufl.edu/"
+  },
+  {
+    "id": 20,
+    "college": "Vanderbilt University",
+    "student_id": 1456390552,
+    "name": "Haley Wilkinson",
+    "masters_focus": "Mechanical Engineering",
+    "gpa": 3.04,
+    "grad_date": "Sat May 18 2019 05:20:33 GMT-0700 (PDT)",
+    "email": "haley-wilkinson@vanderbilt.edu/"
+  },
+  {
+    "id": 21,
+    "college": "University of Wisconsin at Madison",
+    "student_id": 8129365213,
+    "name": "Rudolph Altenwerth",
+    "masters_focus": "Software Engineering",
+    "gpa": 2.79,
+    "grad_date": "Sun Mar 10 2019 00:00:29 GMT-0800 (PST)",
+    "email": "rudolph-altenwerth@wisc.edu/"
+  },
+  {
+    "id": 22,
+    "college": "Brigham Young University",
+    "student_id": 3081781864,
+    "name": "Reina Koepp",
+    "masters_focus": "Applied Mathematics",
+    "gpa": 3.26,
+    "grad_date": "Thu Oct 25 2018 03:17:15 GMT-0700 (PDT)",
+    "email": "reina-koepp@byu.edu/"
+  },
+  {
+    "id": 23,
+    "college": "New York University",
+    "student_id": 339393201,
+    "name": "Moriah Cole",
+    "masters_focus": "Mechanical Engineering",
+    "gpa": 3.17,
+    "grad_date": "Sun Mar 31 2019 03:25:18 GMT-0700 (PDT)",
+    "email": "moriah-cole@nyu.edu/"
+  },
+  {
+    "id": 24,
+    "college": "University of Colorado at Boulder",
+    "student_id": 9001314340,
+    "name": "Asha Ryan",
+    "masters_focus": "Electrical Engineering",
+    "gpa": 3.02,
+    "grad_date": "Sat Oct 20 2018 19:58:53 GMT-0700 (PDT)",
+    "email": "asha-ryan@colorado.edu/"
+  },
+  {
+    "id": 25,
+    "college": "California Institute of Technology",
+    "student_id": 3078189727,
+    "name": "Thaddeus Schmidt",
+    "masters_focus": "Applied Mathematics",
+    "gpa": 3.03,
+    "grad_date": "Mon Aug 26 2019 05:48:17 GMT-0700 (PDT)",
+    "email": "thaddeus-schmidt@caltech.edu/"
+  },
+  {
+    "id": 26,
+    "college": "Ohio State University",
+    "student_id": 229427330,
+    "name": "Kole Kirlin",
+    "masters_focus": "Computer Engineering",
+    "gpa": 2.66,
+    "grad_date": "Wed Jan 02 2019 06:20:20 GMT-0800 (PST)",
+    "email": "kole-kirlin@osu.edu/"
+  },
+  {
+    "id": 27,
+    "college": "Princeton University",
+    "student_id": 1190226598,
+    "name": "Dawson Dach",
+    "masters_focus": "Applied Mathematics",
+    "gpa": 2.77,
+    "grad_date": "Sun Oct 14 2018 07:12:48 GMT-0700 (PDT)",
+    "email": "dawson-dach@princeton.edu/"
+  },
+  {
+    "id": 28,
+    "college": "Colorado State University",
+    "student_id": 2609973287,
+    "name": "Nikki Marquardt DVM",
+    "masters_focus": "Applied Mathematics",
+    "gpa": 3.45,
+    "grad_date": "Thu Sep 12 2019 22:56:22 GMT-0700 (PDT)",
+    "email": "nikki-marquardt-dvm@colostate.edu/"
+  },
+  {
+    "id": 29,
+    "college": "Brigham Young University",
+    "student_id": 869029226,
+    "name": "Isaiah Schroeder",
+    "masters_focus": "Computer Science",
+    "gpa": 2.95,
+    "grad_date": "Sat Jun 22 2019 11:22:28 GMT-0700 (PDT)",
+    "email": "isaiah-schroeder@byu.edu/"
+  },
+  {
+    "id": 30,
+    "college": "University of California at Davis",
+    "student_id": 9917265365,
+    "name": "Kattie Schuster Sr.",
+    "masters_focus": "Computer Engineering",
+    "gpa": 2.62,
+    "grad_date": "Sat Dec 08 2018 11:10:34 GMT-0800 (PST)",
+    "email": "kattie-schuster-sr.@ucdavis.edu/"
+  },
+  {
+    "id": 31,
+    "college": "Harvard University",
+    "student_id": 2325927555,
+    "name": "Christian Hettinger Sr.",
+    "masters_focus": "Software Engineering",
+    "gpa": 2.93,
+    "grad_date": "Thu May 30 2019 21:14:37 GMT-0700 (PDT)",
+    "email": "christian-hettinger-sr.@harvard.edu/"
+  },
+  {
+    "id": 32,
+    "college": "University of California at Davis",
+    "student_id": 5250902286,
+    "name": "Ryder Berge",
+    "masters_focus": "Computer Engineering",
+    "gpa": 3.07,
+    "grad_date": "Wed Dec 19 2018 00:56:43 GMT-0800 (PST)",
+    "email": "ryder-berge@ucdavis.edu/"
+  },
+  {
+    "id": 33,
+    "college": "University of Michigan at Ann Arbor",
+    "student_id": 9759646583,
+    "name": "Hassan Littel",
+    "masters_focus": "Applied Mathematics",
+    "gpa": 2.83,
+    "grad_date": "Fri Aug 16 2019 23:38:22 GMT-0700 (PDT)",
+    "email": "hassan-littel@umich.edu/"
+  },
+  {
+    "id": 34,
+    "college": "University of California at Los Angeles",
+    "student_id": 4456817767,
+    "name": "Lauryn Terry DVM",
+    "masters_focus": "Applied Mathematics",
+    "gpa": 3.28,
+    "grad_date": "Mon Aug 05 2019 16:51:17 GMT-0700 (PDT)",
+    "email": "lauryn-terry-dvm@ucla.edu/"
+  },
+  {
+    "id": 35,
+    "college": "Stanford University",
+    "student_id": 7382599663,
+    "name": "Savanna Bashirian",
+    "masters_focus": "Computer Science",
+    "gpa": 3.3,
+    "grad_date": "Mon Jul 15 2019 20:25:19 GMT-0700 (PDT)",
+    "email": "savanna-bashirian@stanford.edu/"
+  },
+  {
+    "id": 36,
+    "college": "Massachusetts Institute of Technology",
+    "student_id": 4985752399,
+    "name": "Taya Schinner",
+    "masters_focus": "Electrical Engineering",
+    "gpa": 2.91,
+    "grad_date": "Sun Jun 02 2019 18:39:12 GMT-0700 (PDT)",
+    "email": "taya-schinner@mit.edu/"
+  },
+  {
+    "id": 37,
+    "college": "North Carolina State University",
+    "student_id": 81259567,
+    "name": "Anastasia Jacobson",
+    "masters_focus": "Electrical Engineering",
+    "gpa": 3.09,
+    "grad_date": "Sat Oct 20 2018 21:43:48 GMT-0700 (PDT)",
+    "email": "anastasia-jacobson@ncsu.edu/"
+  },
+  {
+    "id": 38,
+    "college": "Vanderbilt University",
+    "student_id": 7395716052,
+    "name": "Gene Heller",
+    "masters_focus": "Computer Science",
+    "gpa": 3.02,
+    "grad_date": "Sun Jan 13 2019 01:31:42 GMT-0800 (PST)",
+    "email": "gene-heller@vanderbilt.edu/"
+  },
+  {
+    "id": 39,
+    "college": "University of California at San Diego",
+    "student_id": 8388265335,
+    "name": "Jon Pouros",
+    "masters_focus": "Applied Mathematics",
+    "gpa": 3.05,
+    "grad_date": "Fri Jun 28 2019 13:32:40 GMT-0700 (PDT)",
+    "email": "jon-pouros@ucsd.edu/"
+  },
+  {
+    "id": 40,
+    "college": "University of Southern California",
+    "student_id": 7928409158,
+    "name": "Moses Luettgen",
+    "masters_focus": "Applied Mathematics",
+    "gpa": 3.52,
+    "grad_date": "Fri Nov 16 2018 14:38:03 GMT-0800 (PST)",
+    "email": "moses-luettgen@usc.edu/"
+  },
+  {
+    "id": 41,
+    "college": "Rochester Institute of Technology",
+    "student_id": 6582049407,
+    "name": "Teresa Lindgren",
+    "masters_focus": "Electrical Engineering",
+    "gpa": 3.34,
+    "grad_date": "Tue Jan 29 2019 17:36:17 GMT-0800 (PST)",
+    "email": "teresa-lindgren@rit.edu/"
+  },
+  {
+    "id": 42,
+    "college": "University of California at Santa Barbara",
+    "student_id": 9510837914,
+    "name": "Dr. Alysson Kunze",
+    "masters_focus": "Computer Science",
+    "gpa": 3.29,
+    "grad_date": "Fri Aug 09 2019 01:05:59 GMT-0700 (PDT)",
+    "email": "dr.-alysson-kunze@ucsb.edu/"
+  },
+  {
+    "id": 43,
+    "college": "Virginia Tech",
+    "student_id": 28830372,
+    "name": "Norris Gorczany DVM",
+    "masters_focus": "Applied Mathematics",
+    "gpa": 3.42,
+    "grad_date": "Mon Dec 10 2018 10:36:17 GMT-0800 (PST)",
+    "email": "norris-gorczany-dvm@vt.edu/"
+  },
+  {
+    "id": 44,
+    "college": "Northeastern University",
+    "student_id": 7225282097,
+    "name": "Cristina Miller II",
+    "masters_focus": "Computer Science",
+    "gpa": 2.69,
+    "grad_date": "Fri Feb 15 2019 21:41:09 GMT-0800 (PST)",
+    "email": "cristina-miller-ii@northeastern.edu/"
+  },
+  {
+    "id": 45,
+    "college": "University of Minnesota at Twin Cities",
+    "student_id": 3191747863,
+    "name": "Evangeline Kreiger",
+    "masters_focus": "Mechanical Engineering",
+    "gpa": 2.5,
+    "grad_date": "Sun May 05 2019 02:26:27 GMT-0700 (PDT)",
+    "email": "evangeline-kreiger@twin-cities.umn.edu/"
+  },
+  {
+    "id": 46,
+    "college": "University of Colorado at Boulder",
+    "student_id": 1651758447,
+    "name": "Wilhelmine Hegmann",
+    "masters_focus": "Cybersecurity",
+    "gpa": 3.18,
+    "grad_date": "Fri May 17 2019 22:20:46 GMT-0700 (PDT)",
+    "email": "wilhelmine-hegmann@colorado.edu/"
+  },
+  {
+    "id": 47,
+    "college": "University of Florida",
+    "student_id": 1194221011,
+    "name": "Jaqueline Wintheiser",
+    "masters_focus": "Data Science",
+    "gpa": 3.35,
+    "grad_date": "Sat May 25 2019 19:13:32 GMT-0700 (PDT)",
+    "email": "jaqueline-wintheiser@ufl.edu/"
+  },
+  {
+    "id": 48,
+    "college": "University of California at Santa Barbara",
+    "student_id": 4729500048,
+    "name": "Tillman Schumm",
+    "masters_focus": "Mechanical Engineering",
+    "gpa": 2.77,
+    "grad_date": "Fri Mar 08 2019 22:24:55 GMT-0800 (PST)",
+    "email": "tillman-schumm@ucsb.edu/"
+  },
+  {
+    "id": 49,
+    "college": "University of Maryland at College Park",
+    "student_id": 2782382873,
+    "name": "Mikayla Brown",
+    "masters_focus": "Data Science",
+    "gpa": 3.26,
+    "grad_date": "Tue Mar 05 2019 01:45:26 GMT-0800 (PST)",
+    "email": "mikayla-brown@umd.edu/"
+  },
+  {
+    "id": 50,
+    "college": "Virginia Tech",
+    "student_id": 2944434465,
+    "name": "Josefina Russel",
+    "masters_focus": "Data Science",
+    "gpa": 2.74,
+    "grad_date": "Wed Oct 31 2018 11:00:12 GMT-0700 (PDT)",
+    "email": "josefina-russel@vt.edu/"
+  },
+  {
+    "id": 51,
+    "college": "Ohio State University",
+    "student_id": 9915674520,
+    "name": "Mrs. Stephanie Franecki",
+    "masters_focus": "Mechanical Engineering",
+    "gpa": 3.12,
+    "grad_date": "Tue Oct 09 2018 17:10:13 GMT-0700 (PDT)",
+    "email": "mrs.-stephanie-franecki@osu.edu/"
+  },
+  {
+    "id": 52,
+    "college": "Brigham Young University",
+    "student_id": 504084210,
+    "name": "Baby Altenwerth",
+    "masters_focus": "Applied Mathematics",
+    "gpa": 2.92,
+    "grad_date": "Sun Sep 08 2019 08:13:40 GMT-0700 (PDT)",
+    "email": "baby-altenwerth@byu.edu/"
+  },
+  {
+    "id": 53,
+    "college": "University of California at Santa Barbara",
+    "student_id": 8250471961,
+    "name": "Kareem Leffler",
+    "masters_focus": "Applied Mathematics",
+    "gpa": 3.56,
+    "grad_date": "Sat Feb 23 2019 10:00:50 GMT-0800 (PST)",
+    "email": "kareem-leffler@ucsb.edu/"
+  },
+  {
+    "id": 54,
+    "college": "University of Washington",
+    "student_id": 9801994320,
+    "name": "Trey Romaguera",
+    "masters_focus": "Software Engineering",
+    "gpa": 3.5,
+    "grad_date": "Mon Oct 29 2018 20:39:56 GMT-0700 (PDT)",
+    "email": "trey-romaguera@washington.edu/"
+  },
+  {
+    "id": 55,
+    "college": "Virginia Tech",
+    "student_id": 2104530034,
+    "name": "Ansel Reichert",
+    "masters_focus": "Electrical Engineering",
+    "gpa": 2.96,
+    "grad_date": "Wed Oct 24 2018 18:50:26 GMT-0700 (PDT)",
+    "email": "ansel-reichert@vt.edu/"
+  },
+  {
+    "id": 56,
+    "college": "University of Florida",
+    "student_id": 1824548631,
+    "name": "Gillian Smitham",
+    "masters_focus": "Mechanical Engineering",
+    "gpa": 2.74,
+    "grad_date": "Sat Aug 10 2019 03:26:42 GMT-0700 (PDT)",
+    "email": "gillian-smitham@ufl.edu/"
+  },
+  {
+    "id": 57,
+    "college": "Cornell University",
+    "student_id": 1713775666,
+    "name": "Myah Beatty Sr.",
+    "masters_focus": "Cybersecurity",
+    "gpa": 2.83,
+    "grad_date": "Thu Oct 25 2018 08:13:26 GMT-0700 (PDT)",
+    "email": "myah-beatty-sr.@cornell.edu/"
+  },
+  {
+    "id": 58,
+    "college": "University of Washington",
+    "student_id": 2219189117,
+    "name": "Edwin Pfannerstill",
+    "masters_focus": "Applied Mathematics",
+    "gpa": 3.08,
+    "grad_date": "Tue Oct 30 2018 20:28:12 GMT-0700 (PDT)",
+    "email": "edwin-pfannerstill@washington.edu/"
+  },
+  {
+    "id": 59,
+    "college": "University of Wisconsin at Madison",
+    "student_id": 43951209,
+    "name": "Joseph Hills",
+    "masters_focus": "Electrical Engineering",
+    "gpa": 3.12,
+    "grad_date": "Sat Feb 23 2019 03:32:39 GMT-0800 (PST)",
+    "email": "joseph-hills@wisc.edu/"
+  },
+  {
+    "id": 60,
+    "college": "University of Minnesota at Twin Cities",
+    "student_id": 5723296448,
+    "name": "Mrs. Janelle Sporer",
+    "masters_focus": "Cybersecurity",
+    "gpa": 2.52,
+    "grad_date": "Thu Mar 21 2019 08:57:59 GMT-0700 (PDT)",
+    "email": "mrs.-janelle-sporer@twin-cities.umn.edu/"
+  },
+  {
+    "id": 61,
+    "college": "Harvey Mudd College",
+    "student_id": 8638755151,
+    "name": "Luigi Mann IV",
+    "masters_focus": "Cybersecurity",
+    "gpa": 2.99,
+    "grad_date": "Sat Nov 17 2018 08:28:07 GMT-0800 (PST)",
+    "email": "luigi-mann-iv@hmc.edu/"
+  },
+  {
+    "id": 62,
+    "college": "University of California at Davis",
+    "student_id": 8144791716,
+    "name": "Jensen Spinka",
+    "masters_focus": "Applied Mathematics",
+    "gpa": 2.58,
+    "grad_date": "Sat Aug 10 2019 13:16:15 GMT-0700 (PDT)",
+    "email": "jensen-spinka@ucdavis.edu/"
+  },
+  {
+    "id": 63,
+    "college": "University of California at Santa Barbara",
+    "student_id": 4917332245,
+    "name": "Korbin Armstrong",
+    "masters_focus": "Computer Science",
+    "gpa": 3.58,
+    "grad_date": "Fri Sep 20 2019 22:39:33 GMT-0700 (PDT)",
+    "email": "korbin-armstrong@ucsb.edu/"
+  },
+  {
+    "id": 64,
+    "college": "University of Washington",
+    "student_id": 9192957242,
+    "name": "Darron Gleichner V",
+    "masters_focus": "Applied Mathematics",
+    "gpa": 3.42,
+    "grad_date": "Tue Apr 16 2019 20:33:11 GMT-0700 (PDT)",
+    "email": "darron-gleichner-v@washington.edu/"
+  },
+  {
+    "id": 65,
+    "college": "University of Michigan at Ann Arbor",
+    "student_id": 4248023313,
+    "name": "Angelica Ratke",
+    "masters_focus": "Software Engineering",
+    "gpa": 3.57,
+    "grad_date": "Wed Jan 23 2019 16:30:57 GMT-0800 (PST)",
+    "email": "angelica-ratke@umich.edu/"
+  },
+  {
+    "id": 66,
+    "college": "Johns Hopkins University",
+    "student_id": 4986283124,
+    "name": "Ray Hackett DDS",
+    "masters_focus": "Data Science",
+    "gpa": 2.57,
+    "grad_date": "Wed Jan 16 2019 18:32:49 GMT-0800 (PST)",
+    "email": "ray-hackett-dds@jhu.edu/"
+  },
+  {
+    "id": 67,
+    "college": "Worcester Polytechnic Institute",
+    "student_id": 4885154139,
+    "name": "Arianna Yost",
+    "masters_focus": "Computer Science",
+    "gpa": 3.21,
+    "grad_date": "Sun Nov 04 2018 07:59:05 GMT-0800 (PST)",
+    "email": "arianna-yost@wpi.edu/"
+  },
+  {
+    "id": 68,
+    "college": "Northeastern University",
+    "student_id": 8827771758,
+    "name": "Mr. Rubie Greenfelder",
+    "masters_focus": "Computer Engineering",
+    "gpa": 3.08,
+    "grad_date": "Fri Aug 30 2019 05:51:15 GMT-0700 (PDT)",
+    "email": "mr.-rubie-greenfelder@northeastern.edu/"
+  },
+  {
+    "id": 69,
+    "college": "University of Connecticut",
+    "student_id": 3812291222,
+    "name": "Bradley Bins",
+    "masters_focus": "Applied Mathematics",
+    "gpa": 3.49,
+    "grad_date": "Wed Jul 17 2019 16:26:30 GMT-0700 (PDT)",
+    "email": "bradley-bins@uconn.edu/"
+  },
+  {
+    "id": 70,
+    "college": "University of Washington",
+    "student_id": 8724404895,
+    "name": "Macy Pollich",
+    "masters_focus": "Computer Science",
+    "gpa": 2.81,
+    "grad_date": "Sat Sep 21 2019 20:26:36 GMT-0700 (PDT)",
+    "email": "macy-pollich@washington.edu/"
+  },
+  {
+    "id": 71,
+    "college": "University of California at San Diego",
+    "student_id": 8866293514,
+    "name": "Dr. Burdette Kutch",
+    "masters_focus": "Applied Mathematics",
+    "gpa": 3.32,
+    "grad_date": "Tue Oct 30 2018 12:14:02 GMT-0700 (PDT)",
+    "email": "dr.-burdette-kutch@ucsd.edu/"
+  },
+  {
+    "id": 72,
+    "college": "University of California at Los Angeles",
+    "student_id": 5660835934,
+    "name": "Jessica Carter",
+    "masters_focus": "Cybersecurity",
+    "gpa": 3.07,
+    "grad_date": "Wed Apr 10 2019 00:27:12 GMT-0700 (PDT)",
+    "email": "jessica-carter@ucla.edu/"
+  },
+  {
+    "id": 73,
+    "college": "Stanford University",
+    "student_id": 9696161696,
+    "name": "Jovanny Greenholt",
+    "masters_focus": "Computer Engineering",
+    "gpa": 3.21,
+    "grad_date": "Fri Oct 04 2019 18:32:50 GMT-0700 (PDT)",
+    "email": "jovanny-greenholt@stanford.edu/"
+  },
+  {
+    "id": 74,
+    "college": "Stanford University",
+    "student_id": 7362226558,
+    "name": "Chadrick Dickens",
+    "masters_focus": "Computer Science",
+    "gpa": 2.68,
+    "grad_date": "Wed Nov 14 2018 17:40:20 GMT-0800 (PST)",
+    "email": "chadrick-dickens@stanford.edu/"
+  },
+  {
+    "id": 75,
+    "college": "University of Colorado at Boulder",
+    "student_id": 5043995273,
+    "name": "Hilton Kuvalis",
+    "masters_focus": "Applied Mathematics",
+    "gpa": 3.41,
+    "grad_date": "Wed Apr 17 2019 00:36:02 GMT-0700 (PDT)",
+    "email": "hilton-kuvalis@colorado.edu/"
+  },
+  {
+    "id": 76,
+    "college": "DigiPen Institute of Technology",
+    "student_id": 7111251708,
+    "name": "Lola Gutkowski",
+    "masters_focus": "Software Engineering",
+    "gpa": 2.69,
+    "grad_date": "Thu Apr 25 2019 04:55:35 GMT-0700 (PDT)",
+    "email": "lola-gutkowski@digipen.edu/"
+  },
+  {
+    "id": 77,
+    "college": "Stanford University",
+    "student_id": 2301826660,
+    "name": "Zachariah Schmidt",
+    "masters_focus": "Computer Engineering",
+    "gpa": 2.85,
+    "grad_date": "Thu Aug 08 2019 06:10:44 GMT-0700 (PDT)",
+    "email": "zachariah-schmidt@stanford.edu/"
+  },
+  {
+    "id": 78,
+    "college": "Yale University",
+    "student_id": 9122917285,
+    "name": "Della Jakubowski",
+    "masters_focus": "Software Engineering",
+    "gpa": 3.12,
+    "grad_date": "Fri Nov 16 2018 17:35:16 GMT-0800 (PST)",
+    "email": "della-jakubowski@yale.edu/"
+  },
+  {
+    "id": 79,
+    "college": "University of Texas at Austin",
+    "student_id": 33830712,
+    "name": "Tessie Ratke",
+    "masters_focus": "Cybersecurity",
+    "gpa": 3.15,
+    "grad_date": "Mon Oct 15 2018 18:15:18 GMT-0700 (PDT)",
+    "email": "tessie-ratke@utexas.edu/"
+  },
+  {
+    "id": 80,
+    "college": "Rochester Institute of Technology",
+    "student_id": 93997032,
+    "name": "Kyleigh Rosenbaum",
+    "masters_focus": "Electrical Engineering",
+    "gpa": 3.55,
+    "grad_date": "Sun Sep 22 2019 06:26:09 GMT-0700 (PDT)",
+    "email": "kyleigh-rosenbaum@rit.edu/"
+  },
+  {
+    "id": 81,
+    "college": "University of California at Davis",
+    "student_id": 165038787,
+    "name": "Vinnie Reinger",
+    "masters_focus": "Computer Engineering",
+    "gpa": 2.62,
+    "grad_date": "Sun Mar 31 2019 06:41:21 GMT-0700 (PDT)",
+    "email": "vinnie-reinger@ucdavis.edu/"
+  },
+  {
+    "id": 82,
+    "college": "Vanderbilt University",
+    "student_id": 1089577073,
+    "name": "Marilie Frami",
+    "masters_focus": "Data Science",
+    "gpa": 3.59,
+    "grad_date": "Tue Jun 18 2019 08:56:15 GMT-0700 (PDT)",
+    "email": "marilie-frami@vanderbilt.edu/"
+  },
+  {
+    "id": 83,
+    "college": "University of Maryland at College Park",
+    "student_id": 5862996920,
+    "name": "Erin Vandervort",
+    "masters_focus": "Cybersecurity",
+    "gpa": 3.1,
+    "grad_date": "Sun Oct 28 2018 09:20:26 GMT-0700 (PDT)",
+    "email": "erin-vandervort@umd.edu/"
+  },
+  {
+    "id": 84,
+    "college": "Ohio State University",
+    "student_id": 421960670,
+    "name": "Ms. Nasir Brown",
+    "masters_focus": "Electrical Engineering",
+    "gpa": 3.01,
+    "grad_date": "Sat Oct 27 2018 23:42:19 GMT-0700 (PDT)",
+    "email": "ms.-nasir-brown@osu.edu/"
+  },
+  {
+    "id": 85,
+    "college": "University of Maryland at College Park",
+    "student_id": 8848067844,
+    "name": "Blanche Hamill",
+    "masters_focus": "Software Engineering",
+    "gpa": 3.5,
+    "grad_date": "Thu Oct 18 2018 08:35:55 GMT-0700 (PDT)",
+    "email": "blanche-hamill@umd.edu/"
+  },
+  {
+    "id": 86,
+    "college": "Worcester Polytechnic Institute",
+    "student_id": 5209914961,
+    "name": "Yasmeen Lehner",
+    "masters_focus": "Electrical Engineering",
+    "gpa": 3.15,
+    "grad_date": "Sun Jan 06 2019 11:41:33 GMT-0800 (PST)",
+    "email": "yasmeen-lehner@wpi.edu/"
+  },
+  {
+    "id": 87,
+    "college": "North Carolina State University",
+    "student_id": 1312687345,
+    "name": "Eric Schmidt PhD",
+    "masters_focus": "Computer Engineering",
+    "gpa": 2.68,
+    "grad_date": "Sat Sep 21 2019 08:10:39 GMT-0700 (PDT)",
+    "email": "eric-schmidt-phd@ncsu.edu/"
+  },
+  {
+    "id": 88,
+    "college": "Purdue University",
+    "student_id": 9327796441,
+    "name": "Van Gorczany",
+    "masters_focus": "Cybersecurity",
+    "gpa": 3.24,
+    "grad_date": "Thu Jan 10 2019 17:12:01 GMT-0800 (PST)",
+    "email": "van-gorczany@purdue.edu/"
+  },
+  {
+    "id": 89,
+    "college": "Northeastern University",
+    "student_id": 4003779384,
+    "name": "Curtis Hessel",
+    "masters_focus": "Electrical Engineering",
+    "gpa": 2.87,
+    "grad_date": "Wed Jun 12 2019 05:57:55 GMT-0700 (PDT)",
+    "email": "curtis-hessel@northeastern.edu/"
+  },
+  {
+    "id": 90,
+    "college": "Ohio State University",
+    "student_id": 3567624080,
+    "name": "Judah Kuhic",
+    "masters_focus": "Mechanical Engineering",
+    "gpa": 2.55,
+    "grad_date": "Mon Jun 10 2019 03:35:03 GMT-0700 (PDT)",
+    "email": "judah-kuhic@osu.edu/"
+  },
+  {
+    "id": 91,
+    "college": "Carnegie Mellon University",
+    "student_id": 8341568052,
+    "name": "Rey Hegmann",
+    "masters_focus": "Electrical Engineering",
+    "gpa": 2.59,
+    "grad_date": "Mon Apr 22 2019 23:14:30 GMT-0700 (PDT)",
+    "email": "rey-hegmann@cmu.edu/"
+  },
+  {
+    "id": 92,
+    "college": "Rice University",
+    "student_id": 1630171486,
+    "name": "Therese Aufderhar",
+    "masters_focus": "Electrical Engineering",
+    "gpa": 3.07,
+    "grad_date": "Tue Jan 08 2019 13:04:09 GMT-0800 (PST)",
+    "email": "therese-aufderhar@rice.edu/"
+  },
+  {
+    "id": 93,
+    "college": "University of California at Los Angeles",
+    "student_id": 6962995215,
+    "name": "Domenico Feeney",
+    "masters_focus": "Data Science",
+    "gpa": 2.56,
+    "grad_date": "Wed Dec 26 2018 07:59:07 GMT-0800 (PST)",
+    "email": "domenico-feeney@ucla.edu/"
+  },
+  {
+    "id": 94,
+    "college": "Massachusetts Institute of Technology",
+    "student_id": 8815735887,
+    "name": "Theresia Lueilwitz",
+    "masters_focus": "Cybersecurity",
+    "gpa": 2.56,
+    "grad_date": "Fri Aug 23 2019 02:24:39 GMT-0700 (PDT)",
+    "email": "theresia-lueilwitz@mit.edu/"
+  }
+]
